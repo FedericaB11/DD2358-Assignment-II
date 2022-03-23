@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 20 16:55:32 2022
-
-@author: federica
-"""
-
 import numpy as np
 import pytest
 import math 
