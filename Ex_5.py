@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 20 14:25:11 2022
-
-@author: federica
-"""
-
 from timeit import default_timer as timer
 import numpy as np
 import matplotlib.pyplot as plt
