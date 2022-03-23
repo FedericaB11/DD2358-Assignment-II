@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Mar  3 14:59:53 2022
-
-@author: federica
-"""
-
 import pytest
 
 
