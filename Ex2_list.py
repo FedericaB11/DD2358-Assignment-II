@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 22 10:03:02 2022
-
-@author: federica
-"""
-
 import time
 from timeit import default_timer as timer
 import sys
